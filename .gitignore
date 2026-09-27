@@ -28,6 +28,10 @@ Thumbs.db
 # Local data
 data/
 
+# Processed RAG data
+processed_data/
+
+
 # LangChain/LangSmith
 .langchain/
 
